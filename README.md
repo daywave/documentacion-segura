@@ -25,7 +25,7 @@ Este proyecto es parte de la materia de Seguridad en Sistemas de la Universidad 
 - Donovan Jerez Ceja
 - Jacqueline Renovato Ramirez
 - Fernanda Fabiola Delgado Ramirez
-- Universidad Autónoma de Aguascalientes
+# Universidad Autónoma de Aguascalientes
 
 
 
